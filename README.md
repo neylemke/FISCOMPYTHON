@@ -19,4 +19,5 @@ Curso de Física Médica do IB de Botucatu
 - Matemática Simbólica
 - Operando com Dados
 - Aprendizado de Máquina
+   - Aprendizado Supervisionado 
 
