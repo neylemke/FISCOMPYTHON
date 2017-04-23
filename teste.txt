@@ -1,0 +1,27 @@
+total 8920
+drwxr-xr-x@ 26 neylemke  501      884 Apr 15 16:26 .
+drwxr-xr-x@ 74 neylemke  501     2516 Mar 13 21:47 ..
+-rw-r--r--@  1 neylemke  501     6148 Feb 27 16:02 .DS_Store
+drwxr-xr-x@ 16 neylemke  501      544 Feb 27 16:59 .git
+drwxr-xr-x@ 12 neylemke  501      408 Apr 14 19:22 .ipynb_checkpoints
+-rw-r--r--@  1 neylemke  501        6 Feb 27 15:54 .python-version
+drwxr-xr-x@ 18 neylemke  501      612 Feb 27 15:54 AltairTutorial
+drwxr-xr-x@ 24 neylemke  501      816 Feb 27 15:54 Introdução
+-rw-r--r--@  1 neylemke  501    32548 Apr 15 16:26 Macetes.ipynb
+drwxr-xr-x@  2 neylemke  501       68 Feb 27 15:54 Mastering-IPython-4
+-rw-r--r--@  1 neylemke  501   198583 Feb 27 15:54 Pandas.ipynb
+-rw-r--r--@  1 neylemke  501      528 Feb 27 16:57 README.md
+-rw-r--r--@  1 neylemke  501     9059 Feb 27 15:54 Slide.ipynb
+-rw-r--r--@  1 neylemke  501    18367 Feb 27 15:54 altair.ipynb
+-rw-r--r--@  1 neylemke  501  2381842 Apr 15 14:51 bokeh.ipynb
+-rw-r--r--@  1 neylemke  501    14949 Feb 27 15:54 bokeh2.ipynb
+drwxr-xr-x@  2 neylemke  501       68 Feb 27 15:54 cookbook-code
+drwxr-xr-x@  2 neylemke  501       68 Feb 27 15:54 cookbook-data
+-rwxr-xr-x@  1 neylemke  501      233 Feb 27 15:54 jupytergcloud
+drwxr-xr-x@  2 neylemke  501       68 Feb 27 15:54 minibook-2nd-code
+-rw-r--r--@  1 neylemke  501   225864 Feb 27 15:54 minibook-chapter2.ipynb
+-rw-r--r--@  1 neylemke  501    36402 Feb 27 15:54 minibookchapter3.ipynb
+-rwxr-xr-x@  1 neylemke  501    24265 Feb 27 15:54 neysouthpark.png
+drwxr-xr-x@  2 neylemke  501       68 Feb 27 15:54 reveal.js
+-rw-r--r--@  1 neylemke  501  1588713 Feb 27 15:54 sympy2.ipynb
+-rw-r--r--@  1 neylemke  501        0 Apr 15 16:30 teste.txt
