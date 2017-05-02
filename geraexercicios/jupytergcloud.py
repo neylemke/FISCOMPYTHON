@@ -1,0 +1,7 @@
+#!/Users/neylemke/.pyenv/shims/ipython
+import os
+import subprocess
+
+lisdata= subprocess.check_output("gcloud compute instances list",shell = True).decode("utf-8")
+command="open http://"+lisdata.split()[-2]+":8888"
+subprocess.check_output(command,shell = True)
